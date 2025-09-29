@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @w3tsadev
-- 👀 I’m interested in Webdev
+- 👀 I work in Webdev
 - 🌱 I’m currently learning Golang
-- 💞️ I’m looking to collaborate on Youtube
+- 💞️ I make coding tutorials on Youtube
 - 📫 How to reach me @w3tsadev
 
 <!---
