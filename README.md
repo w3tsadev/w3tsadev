@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Coding Jitsu
 - 👀 I work in Webdev
-- 🌱 I’m currently learning Golang
+- 🌱 I’m currently building birchly.io
 - 💞️ I make coding tutorials on Youtube
 - 📫 How to reach me @w3tsadev
 
